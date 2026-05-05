@@ -1,0 +1,7 @@
+first_name,last_name,email,town,home_value_tier,year_built,recently_sold,source_type,source_url
+Catherine,Hollings,catherine.hollings.test@example.com,Winnetka,ultra,1998,0,test,manual
+Robert,Mendelsohn,robert.mendelsohn.test@example.com,Highland Park,high,2014,0,test,manual
+Priya,Iyer,priya.iyer.test@example.com,Lake Forest,ultra,1989,1,test,manual
+Greg,Vasquez,greg.vasquez.test@example.com,Glencoe,high,2001,0,test,manual
+Allison,Tate,allison.tate.test@example.com,Hinsdale,ultra,1976,0,test,manual
+Daniel,Rourke,daniel.rourke.test@example.com,Glenview,mid,1999,0,test,manual
